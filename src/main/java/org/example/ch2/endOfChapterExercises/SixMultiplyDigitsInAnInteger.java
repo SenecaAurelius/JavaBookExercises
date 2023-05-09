@@ -18,6 +18,9 @@ public class SixMultiplyDigitsInAnInteger {
             int doubleDigit = numberToSeparate % 10;
             int tripleDigit = ((numberToSeparate - doubleDigit) % 100) / 10;
             int singleDigit = ((numberToSeparate - tripleDigit - doubleDigit) % 1000) / 100;
+            System.out.println(singleDigit);
+            System.out.println(doubleDigit);
+            System.out.println((tripleDigit));
             int multiplyDigits = doubleDigit * tripleDigit * singleDigit;
             System.out.println(multiplyDigits);
         } else {
