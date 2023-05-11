@@ -4,150 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ebfed79-23c0-437c-a835-8c6f10a8e97e" name="Changes" comment="-Test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch2/endOfChapterExercises/TwentyThreeCostOfDriving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch2/endOfChapterExercises/TwentyTwoMonetaryUnits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/AATwentySevenPointsInATriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/AOneSolveQuadraticEquations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/BTwoMultiplyThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/CThreeSolveLinearEquations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/DFourRandomMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/EFiveFindFutureDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/FSixComputeAndInterpretBMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/GSevenMonetaryUnits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/HEightSortThreeIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/INineIBSNCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/JTenMultiplicationQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/KElevenFindTheNumberOfDaysInAMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/LTwelvePalindromeOfInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/MThirteenComputeTaxesASecondTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/NFourteenHeadsOrTails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/OFifteenRandomPointInRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/PSixteenRockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/QSeventeenCostOfShipping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/REighteenPerimeterOfRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/TTwentyWindChillTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/ThirtyFiveOddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/ThirtyFourCompareCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/ThirtyOneCurrencyExchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/UTwentyOneComputeDayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/VTwentyTwoPointInACircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/WTwentyThreePointsInARectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/XTwentyFourPickACard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/YTwentyFiveIntersectingPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/EndOfChapterExercises/ZTwentySixComparisonOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/inBookExercises/AdditionQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/inBookExercises/ChineseZodiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/inBookExercises/ComputeTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/inBookExercises/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/inBookExercises/Lottery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/inBookExercises/SimpleIfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/inBookExercises/SubtractionQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/inBookExercises/TestBooleanOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch3/inBookExercises/TestSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/AAreaOfAPentagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/BGreatCircleDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/CEstimateAreas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/DAreaOfAHexagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/EAreaOfARegularPolygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/HFindTheCharacterofAnASCIICode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/IFindTheUnicodeOfACharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/MVowelOrConsonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/NConvertLetterGradeToNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/OPhoneKeyPads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/PRandomCharacterGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/RStudentMajorAndStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/SProcessAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/TCheckSSN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/U22CheckSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/V23CalculatingPayroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/W24AlphabeticalOrderOfThreeCountries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/endOfUnitExercises/X25GenerateVehiclePlateNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/inBookExercises/ComputeAngles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/inBookExercises/EvaluateMethodCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/inBookExercises/FormatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/inBookExercises/HexDigit2Dec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch4/inBookExercises/OrderTwoCities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/A1PassOrFail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/B2RepeatMultiplications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/ConversionCelciusFahrenheitTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/D4InchesToCentiTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/E5CtoFandFtoC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/F6SquareMetersToPing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/G7ComputeFutureTuition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/H8FindHighestScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/J10FindNumbersDivisbleBy3And4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/K11FindNumbersDivisibleBy3And4ButNotBoth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/L12SmallestNxNxNUnder12000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/M13SmallestNumxNumUnder12000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/O15DisplayASCIICharacterTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/P16FactorsOfAnInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/Q17DisplayPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/R18DisplayFourPatters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/S19DisplayNumbersInPyramidPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/endOfBookExercises/T20DisplayAllPrimeBetween2And1200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/Dec2Hex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/FutureTuition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/GuessNumberOneTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/RepeatAdditionQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/SentinelValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/StringChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/SubtractionLoopQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch5/inBookExercises/TestDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/endOfChapterExercises/A1PentagonalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/endOfChapterExercises/B2SumDigitsInInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/endOfChapterExercises/C3PalindromeInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/endOfChapterExercises/D4ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/endOfChapterExercises/E5SortThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/GreatestCommonDivisorMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/Hex2Dec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/PrimeNumberMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/PrintCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/RandomCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/TestMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/TestMethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/TestPassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/TestRandomCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch6/inBookExercises/TestVoidMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/endOfChapterExercises/A1AssignGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/endOfChapterExercises/B2ComparingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/endOfChapterExercises/C3CountOccurrencesOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/endOfChapterExercises/D4AnalyzeScoresUnspecifiedIndexOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/endOfChapterExercises/E5NumberOfOddsAndEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/endOfChapterExercises/G7CountSingleDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/endOfChapterExercises/H8AverageAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/endOfChapterExercises/I9FindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/endOfChapterExercises/J10FindIndexOfLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/AnalyzeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/CountLettersInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/TestArrayReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/TestErrors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/TestPassArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/VarArgsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestPoint2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestTV.java" afterDir="false" />
+    <list default="true" id="3ebfed79-23c0-437c-a835-8c6f10a8e97e" name="Changes" comment="-Working on Ch. 8, Matrices.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/PassTwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/FindNearestPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/GradeExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/ShowOutput3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/ShowOutputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/ShowOutputTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/CircleWithPrivateDataFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/ShowOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/ShowOutputScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/StudentNotImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestShowOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TotalArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch2/endOfChapterExercises/SixMultiplyDigitsInAnInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch2/endOfChapterExercises/SixMultiplyDigitsInAnInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch8/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/RandomExtremelyUseful2dMatrixStuff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestCircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,13 +69,13 @@
     "last_opened_file_path": "C:/Users/Tesla/Desktop/EventsLC/demo"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hello">
-    <configuration name="B2ComparingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch7.endOfChapterExercises.B2ComparingNumbers" />
+  <component name="RunManager" selected="Application.ShowOutputScope">
+    <configuration name="ShowOutputScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.ShowOutputScope" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch7.endOfChapterExercises.*" />
+          <option name="PATTERN" value="org.example.ch9.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E5NumberOfOddsAndEvens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch7.endOfChapterExercises.E5NumberOfOddsAndEvens" />
+    <configuration name="StudentNotImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.StudentNotImmutable" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch7.endOfChapterExercises.*" />
+          <option name="PATTERN" value="org.example.ch9.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H8AverageAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch7.endOfChapterExercises.H8AverageAnArray" />
+    <configuration name="TestDate4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.TestDate4" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch7.endOfChapterExercises.*" />
+          <option name="PATTERN" value="org.example.ch9.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch8.Hello" />
+    <configuration name="TestDate5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.TestDate5" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch8.*" />
+          <option name="PATTERN" value="org.example.ch9.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J10FindIndexOfLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch7.endOfChapterExercises.J10FindIndexOfLargestElement" />
+    <configuration name="TotalArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.TotalArea" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch7.endOfChapterExercises.*" />
+          <option name="PATTERN" value="org.example.ch9.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.J10FindIndexOfLargestElement" />
-        <item itemvalue="Application.H8AverageAnArray" />
-        <item itemvalue="Application.E5NumberOfOddsAndEvens" />
-        <item itemvalue="Application.B2ComparingNumbers" />
+        <item itemvalue="Application.ShowOutputScope" />
+        <item itemvalue="Application.StudentNotImmutable" />
+        <item itemvalue="Application.TestDate5" />
+        <item itemvalue="Application.TotalArea" />
+        <item itemvalue="Application.TestDate4" />
       </list>
     </recent_temporary>
   </component>
@@ -280,11 +161,19 @@
       <option name="project" value="LOCAL" />
       <updated>1682383930655</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-Working on Ch. 8, Matrices.">
+      <created>1683666901076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683666901076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Test" />
+    <MESSAGE value="-Working on Ch. 8, Matrices." />
+    <option name="LAST_COMMIT_MESSAGE" value="-Working on Ch. 8, Matrices." />
   </component>
 </project>

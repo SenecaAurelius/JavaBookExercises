@@ -2,7 +2,7 @@ package org.example.ch8;
 
 import java.util.Scanner;
 
-public class Hello {
+public class RandomExtremelyUseful2dMatrixStuff {
     public static void main(String[] args) {
         int[][] array = new int[5][6];
         int[] x = {1, 2};
@@ -60,6 +60,31 @@ public class Hello {
         //get sum of the first row in maxRow
         for(int column = 0; column < matrix[0].length; column++){
             maxRow += matrix[0][column];
+        }
+
+        for(int row = 1; row < matrix.length; row++){
+            int totalOfThisRow = 0;
+            for(int column = 0; column < matrix[row].length; column++){
+                totalOfThisRow += matrix[row][column];
+
+                if(totalOfThisRow > maxRow){
+                    maxRow = totalOfThisRow;
+                    indexOfMaxRow = row;
+                }
+            }
+            System.out.println("Row " + indexOfMaxRow + " has the maximum sum of " + maxRow);
+        }
+
+
+        //Random shuffling
+        for(int i = 0; i < matrix.length; i++){
+            for (int j = 0; j < matrix[i].length; j++){
+                int i1 = (int)(Math.random() * matrix.length);
+                int j1 = (int)(Math.random() * matrix[i].length);
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[i1][j1];
+                matrix[i1][j1] = temp;
+            }
         }
 
     }

@@ -15,6 +15,10 @@ public class Circle {
         numberOfObjects++;
     }
 
+    public double getRadius() {
+        return radius;
+    }
+
     static int getNumberOfObjects() {
         return numberOfObjects;
     }

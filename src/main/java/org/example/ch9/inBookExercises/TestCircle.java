@@ -20,7 +20,7 @@ public class TestCircle {
         //Modify circle object 2 by changing its radius.
         circle2.radius = 100;
         System.out.println("The area of the circle of radius " + circle2.radius + " is " + circle2.getArea());
-        System.out.println(Circle.getNumberOfObjects() + " is how many cirlce we now have at the end of our program. ");
-        System.out.println(circle1.getNumberOfObjects() + " is how many cirlce we now have at the end of our program. ");
+        System.out.println(Circle.getNumberOfObjects() + " is how many circles we now have at the end of our program. ");
+        System.out.println(circle1.getNumberOfObjects() + " is how many circles we now have at the end of our program. ");
     }
 }
