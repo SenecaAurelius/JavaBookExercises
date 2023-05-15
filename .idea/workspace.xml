@@ -4,31 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ebfed79-23c0-437c-a835-8c6f10a8e97e" name="Changes" comment="-Working on Ch. 8, Matrices.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch7/inBookExercises/PassTwoDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/FindNearestPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/GradeExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/ShowOutput3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/ShowOutputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/inBookExercises/ShowOutputTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/CircleWithPrivateDataFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Notes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/ShowOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/ShowOutputScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/StudentNotImmutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestDate5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestShowOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TotalArea.java" afterDir="false" />
+    <list default="true" id="3ebfed79-23c0-437c-a835-8c6f10a8e97e" name="Changes" comment="Refactored, saving ch9 endOfChapterExercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/TestCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/TestLoanClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/UseBMIClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch8/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch8/RandomExtremelyUseful2dMatrixStuff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch9/inBookExercises/TestCircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +33,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -56,20 +45,28 @@
     </option>
   </component>
   <component name="ProjectId" id="2OeEHl3fFZqmbkuEVty7AGCawnf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Tesla/Desktop/EventsLC/demo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tesla/Downloads/demo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ShowOutputScope">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tesla\Desktop\JavaMainLibrary\src\main\java\org\example\ch9\endOfChapterExercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestCourse">
     <configuration name="ShowOutputScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.ShowOutputScope" />
       <module name="Intro-Java-Data-Daniel-Liang" />
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDate4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.TestDate4" />
+    <configuration name="TestCourse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch10.inBookExercises.TestCourse" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch9.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch10.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDate5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.TestDate5" />
+    <configuration name="TestLoanClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch10.inBookExercises.TestLoanClass" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch9.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch10.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TotalArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.TotalArea" />
+    <configuration name="UseBMIClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch10.inBookExercises.UseBMIClass" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch9.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch10.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCourse" />
+        <item itemvalue="Application.UseBMIClass" />
+        <item itemvalue="Application.TestLoanClass" />
         <item itemvalue="Application.ShowOutputScope" />
         <item itemvalue="Application.StudentNotImmutable" />
-        <item itemvalue="Application.TestDate5" />
-        <item itemvalue="Application.TotalArea" />
-        <item itemvalue="Application.TestDate4" />
       </list>
     </recent_temporary>
   </component>
@@ -168,12 +165,31 @@
       <option name="project" value="LOCAL" />
       <updated>1683666901076</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refactored, saving ch9 endOfChapterExercises">
+      <created>1683775624617</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683775624617</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-Test" />
     <MESSAGE value="-Working on Ch. 8, Matrices." />
-    <option name="LAST_COMMIT_MESSAGE" value="-Working on Ch. 8, Matrices." />
+    <MESSAGE value="Refactored, saving ch9 endOfChapterExercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored, saving ch9 endOfChapterExercises" />
   </component>
 </project>

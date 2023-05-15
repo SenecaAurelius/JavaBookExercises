@@ -1,2 +1,4 @@
-package org.example.ch10;public class Hello {
+package org.example.ch10;
+
+public class Hello {
 }
