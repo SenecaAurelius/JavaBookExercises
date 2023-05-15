@@ -14,23 +14,43 @@ public class TestCourse {
 
         System.out.println("Number of students in course1 : " + course1.getNumberOfStudents() + ".");
         String[] students = course1.getStudents();
+        String studentsInClass = "";
         for(int i = 0; i < students.length; i++){
 
-            if(students[i] == null){
+//            if(students[i] == null){
+//
+//                break;
+//            }
+            studentsInClass += students[i];
+            if(students[i + 1] == null){
+                studentsInClass += ".";
                 break;
             }
-            System.out.print(students[i] + ", ");
+            studentsInClass += ", ";
         }
 
+        System.out.println(studentsInClass);
+
+
+        String studentsInClass2 = "";
         System.out.println("\nNumber of students in course2 : " + course2.getNumberOfStudents() + ".");
         String[] students2 = course2.getStudents();
         for(int i = 0; i < students2.length; i++){
 
-            if(students2[i] == null){
+//            if(students2[i] == null){
+//                break;
+//            }
+            studentsInClass2 += students2[i];
+            if(students2[i + 1] == null){
+                studentsInClass2 += ".";
                 break;
             }
-            System.out.print(students2[i] + ", ");
+            else {
+                studentsInClass2 += ", ";
+            }
+
         }
+        System.out.println(studentsInClass2);
 
     }
 }

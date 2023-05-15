@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ebfed79-23c0-437c-a835-8c6f10a8e97e" name="Changes" comment="Refactored, saving ch9 endOfChapterExercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/TestCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/TestLoanClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/UseBMIClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/StackOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/TestStackOfIntegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/TestCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch10/inBookExercises/TestCourse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,22 +62,9 @@
       <recent name="C:\Users\Tesla\Desktop\JavaMainLibrary\src\main\java\org\example\ch9\endOfChapterExercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCourse">
+  <component name="RunManager" selected="Application.TestStackOfIntegers">
     <configuration name="ShowOutputScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.ShowOutputScope" />
-      <module name="Intro-Java-Data-Daniel-Liang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.ch9.inBookExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentNotImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch9.inBookExercises.StudentNotImmutable" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
@@ -119,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestStackOfIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch10.inBookExercises.TestStackOfIntegers" />
+      <module name="Intro-Java-Data-Daniel-Liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ch10.inBookExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UseBMIClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ch10.inBookExercises.UseBMIClass" />
       <module name="Intro-Java-Data-Daniel-Liang" />
@@ -134,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStackOfIntegers" />
         <item itemvalue="Application.TestCourse" />
         <item itemvalue="Application.UseBMIClass" />
         <item itemvalue="Application.TestLoanClass" />
         <item itemvalue="Application.ShowOutputScope" />
-        <item itemvalue="Application.StudentNotImmutable" />
       </list>
     </recent_temporary>
   </component>
