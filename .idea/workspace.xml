@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ebfed79-23c0-437c-a835-8c6f10a8e97e" name="Changes" comment="Refactored, saving ch9 endOfChapterExercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/DynamicBindingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/PolymorphismDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/TestCircleRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/DynamicBindingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/DynamicBindingDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <recent name="C:\Users\Tesla\Desktop\JavaMainLibrary\src\main\java\org\example\ch9\endOfChapterExercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DynamicBindingDemo">
+  <component name="RunManager" selected="Application.ShowOutput4">
     <configuration name="DynamicBindingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.DynamicBindingDemo" />
       <module name="Intro-Java-Data-Daniel-Liang" />
@@ -79,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeIgnoreNonAlphanumeric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch10.inBookExercises.PalindromeIgnoreNonAlphanumeric" />
+    <configuration name="ShowOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.ShowOutput" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch10.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch11.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.PolymorphismDemo" />
+    <configuration name="ShowOutput2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.ShowOutput2" />
+      <module name="Intro-Java-Data-Daniel-Liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ch11.inBookExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowOutput3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.ShowOutput3" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
@@ -106,20 +118,7 @@
       </method>
     </configuration>
     <configuration name="ShowOutput4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch10.inBookExercises.ShowOutput4" />
-      <module name="Intro-Java-Data-Daniel-Liang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.ch10.inBookExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCircleRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.TestCircleRectangle" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.ShowOutput4" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DynamicBindingDemo" />
-        <item itemvalue="Application.PolymorphismDemo" />
-        <item itemvalue="Application.TestCircleRectangle" />
         <item itemvalue="Application.ShowOutput4" />
-        <item itemvalue="Application.PalindromeIgnoreNonAlphanumeric" />
+        <item itemvalue="Application.ShowOutput3" />
+        <item itemvalue="Application.DynamicBindingDemo" />
+        <item itemvalue="Application.ShowOutput2" />
+        <item itemvalue="Application.ShowOutput" />
       </list>
     </recent_temporary>
   </component>
