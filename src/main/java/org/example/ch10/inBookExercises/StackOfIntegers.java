@@ -38,5 +38,4 @@ public class StackOfIntegers {
         return size;
     }
 
-
 }
