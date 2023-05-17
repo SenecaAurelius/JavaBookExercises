@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ebfed79-23c0-437c-a835-8c6f10a8e97e" name="Changes" comment="Refactored, saving ch9 endOfChapterExercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/CastingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/CircleWithException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/InputMismatchExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/QuotientWithException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/TestCircleWithException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/TestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/Testch12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/easyProblems/BuildStaircase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/easyProblems/DivisibleSumPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/easyProblems/SecondDivisibleSumPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/DynamicBindingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/DynamicBindingDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,51 +76,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.ShowOutput4">
-    <configuration name="DynamicBindingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.DynamicBindingDemo" />
-      <module name="Intro-Java-Data-Daniel-Liang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.ch11.inBookExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShowOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.ShowOutput" />
-      <module name="Intro-Java-Data-Daniel-Liang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.ch11.inBookExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShowOutput2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.ShowOutput2" />
-      <module name="Intro-Java-Data-Daniel-Liang" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.ch11.inBookExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ShowOutput3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.ShowOutput3" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.ShowOutput3" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch11.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +90,50 @@
       </method>
     </configuration>
     <configuration name="ShowOutput4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch11.inBookExercises.ShowOutput4" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.ShowOutput4" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch11.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCircleWithException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.TestCircleWithException" />
+      <module name="Intro-Java-Data-Daniel-Liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.TestException" />
+      <module name="Intro-Java-Data-Daniel-Liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testch12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.Testch12" />
+      <module name="Intro-Java-Data-Daniel-Liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,10 +144,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ShowOutput4" />
+        <item itemvalue="Application.TestCircleWithException" />
+        <item itemvalue="Application.TestException" />
+        <item itemvalue="Application.Testch12" />
         <item itemvalue="Application.ShowOutput3" />
-        <item itemvalue="Application.DynamicBindingDemo" />
-        <item itemvalue="Application.ShowOutput2" />
-        <item itemvalue="Application.ShowOutput" />
       </list>
     </recent_temporary>
   </component>
