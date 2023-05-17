@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ebfed79-23c0-437c-a835-8c6f10a8e97e" name="Changes" comment="Refactored, saving ch9 endOfChapterExercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/CastingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch11/inBookExercises/ShowOutput5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/CircleWithException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/InputMismatchExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/QuotientWithException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/TestCircleWithException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/TestException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/Testch12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/easyProblems/BuildStaircase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/easyProblems/DivisibleSumPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/easyProblems/SecondDivisibleSumPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ChainedExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/InvalidRadiusException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/TestCircleWithCustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/GetLineSeparatorDefinedBySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/ReadData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/ReplaceText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/TestFileClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/WriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/WriteDataWithAutoClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/image/us.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,13 +73,13 @@
       <recent name="C:\Users\Tesla\Desktop\JavaMainLibrary\src\main\java\org\example\ch9\endOfChapterExercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShowOutput4">
-    <configuration name="ShowOutput3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.ShowOutput3" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="GetLineSeparatorDefinedBySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.GetLineSeparatorDefinedBySystem" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowOutput4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.ShowOutput4" />
+    <configuration name="ReadData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.ReadData" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCircleWithException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.TestCircleWithException" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.Test" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.TestException" />
+    <configuration name="WriteData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.WriteData" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testch12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.Testch12" />
+    <configuration name="WriteDataWithAutoClose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.WriteDataWithAutoClose" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.*" />
+          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShowOutput4" />
-        <item itemvalue="Application.TestCircleWithException" />
-        <item itemvalue="Application.TestException" />
-        <item itemvalue="Application.Testch12" />
-        <item itemvalue="Application.ShowOutput3" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.GetLineSeparatorDefinedBySystem" />
+        <item itemvalue="Application.ReadData" />
+        <item itemvalue="Application.WriteDataWithAutoClose" />
+        <item itemvalue="Application.WriteData" />
       </list>
     </recent_temporary>
   </component>
