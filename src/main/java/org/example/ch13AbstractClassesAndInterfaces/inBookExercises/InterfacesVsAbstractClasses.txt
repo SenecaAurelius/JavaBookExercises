@@ -1,0 +1,11 @@
+                Variables                       Constructors                                    Methods
+
+Abstract Class  No Restrictions                 Constructors are invoked by subclasses          No restrictions
+                                                through cons. chaining. Abstract classes
+                                                cannot be instantiated using new keyword
+
+
+
+Interface       All variables must be public    No constructors. Cannot be instantiated         May contain public abstract instance methods,
+                                                                                                public default, and public static methods.
+                static final

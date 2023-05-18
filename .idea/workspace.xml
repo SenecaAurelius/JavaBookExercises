@@ -5,20 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ebfed79-23c0-437c-a835-8c6f10a8e97e" name="Changes" comment="Refactored, saving ch9 endOfChapterExercises">
-      <change afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ChainedExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/InvalidRadiusException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/ShowOutput6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/TestCircleWithCustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/GetLineSeparatorDefinedBySystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/ReplaceText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/TestFileClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/WriteDataWithAutoClose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/image/us.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/ReadFileFromURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch12/inBookExercises/files/image/WebCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Cloneable/Cloneable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Cloneable/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Cloneable/ShowOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Cloneable/ShowOutput2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Cloneable/ShowOutput3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Cloneable/ShowOutput4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Cloneable/ShowOutput5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Cloneable/TestHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/ComparableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/InterfacesVsAbstractClasses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/ShowOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/ShowOutput2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/ShowOutput3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/ShowOutput4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/SortComparableObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/SortRectangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/TestCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/TestEdible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ch13AbstractClassesAndInterfaces/inBookExercises/TestGeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/easyProblems/CountingValleys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/easyProblems/DrawingBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hackerRankProblems/easyProblems/SockMerchant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,13 +88,13 @@
       <recent name="C:\Users\Tesla\Desktop\JavaMainLibrary\src\main\java\org\example\ch9\endOfChapterExercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="GetLineSeparatorDefinedBySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.GetLineSeparatorDefinedBySystem" />
+  <component name="RunManager" selected="Application.TestHouse">
+    <configuration name="ShowOutput2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.ShowOutput2" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
+          <option name="PATTERN" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.ReadData" />
+    <configuration name="ShowOutput3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.ShowOutput3" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
+          <option name="PATTERN" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.Test" />
+    <configuration name="ShowOutput5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.ShowOutput5" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
+          <option name="PATTERN" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.WriteData" />
+    <configuration name="TestHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.TestHouse" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
+          <option name="PATTERN" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteDataWithAutoClose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ch12.inBookExercises.files.WriteDataWithAutoClose" />
+    <configuration name="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.ShowOutput4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.ShowOutput4" />
       <module name="Intro-Java-Data-Daniel-Liang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ch12.inBookExercises.files.*" />
+          <option name="PATTERN" value="org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.GetLineSeparatorDefinedBySystem" />
-        <item itemvalue="Application.ReadData" />
-        <item itemvalue="Application.WriteDataWithAutoClose" />
-        <item itemvalue="Application.WriteData" />
+        <item itemvalue="Application.TestHouse" />
+        <item itemvalue="Application.ShowOutput5" />
+        <item itemvalue="Application.org.example.ch13AbstractClassesAndInterfaces.inBookExercises.Cloneable.ShowOutput4" />
+        <item itemvalue="Application.ShowOutput3" />
+        <item itemvalue="Application.ShowOutput2" />
       </list>
     </recent_temporary>
   </component>
