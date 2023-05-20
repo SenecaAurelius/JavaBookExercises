@@ -10,7 +10,7 @@ public class GreatestCommonDivisor {
         System.out.println("Please enter the second integer : ");
         int n2 = input.nextInt();
 
-        int gcd =-1;
+        int gcd = -1;
         int k = 2;
 
         while(k <= n1 && k <= n2){
